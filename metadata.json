@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, full-stack task management dashboard with categories, user assignments, and real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
